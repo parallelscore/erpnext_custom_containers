@@ -10,6 +10,7 @@ on:
       image:
         description: Image name
         type: string
+        default: "lafia"
       version:
         description: Image version tag
         type: string
