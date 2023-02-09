@@ -1,9 +1,5 @@
 [
   {
-    "url": "https://sultanbadmus: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@github.com/parallelscore/Lafia-WebApp-ERPNext-",
-    "branch": "sultan-patch"
-  },
-  {
     "url": "https://github.com/frappe/payments",
     "branch": "develop" 
   },
