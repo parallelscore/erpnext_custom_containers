@@ -16,7 +16,7 @@
     "branch": "v14.14.0"
   },
   {
-    "url": "https://${{PERSONAL_ACCESS_TOKEN}}@github.com:parallelscore/Lafia-WebApp-ERPNext-.git",
+    "url": "https://${{PERSONAL_ACCESS_TOKEN}}@github.com/parallelscore/Lafia-WebApp-ERPNext-.git",
     "branch": "dev",
     "name": "lafia"
   }
