@@ -19,5 +19,9 @@
     "url": "https://github.com/parallelscore/Lafia-WebApp-ERPNext-",
     "branch": "dev",
     "name": "lafia"
+  },
+  {
+    "url": "https://github.com/frappe/hrms.git",
+    "branch": "develop"
   }
 ]
